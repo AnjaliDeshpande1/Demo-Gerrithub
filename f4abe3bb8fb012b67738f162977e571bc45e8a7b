@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ac5d6e28_f3684183",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020117
+      },
+      "writtenOn": "2022-04-09T11:34:41Z",
+      "side": 1,
+      "message": "\u003e Patch Set 1: Code-Review+1\n\u003e \n\u003e This change is ready for review.\n\n",
+      "revId": "f4abe3bb8fb012b67738f162977e571bc45e8a7b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
